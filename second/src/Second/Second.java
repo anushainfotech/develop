@@ -6,7 +6,7 @@ public class Second {
 		System.out.println("welcome");
 		System.out.println("hello");
 		System.out.println("hai");
-		System.out.println("anushaanu");
+		System.out.println("anusha");
 		// TODO Auto-generated method stub
 
 	}
