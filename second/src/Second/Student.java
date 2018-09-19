@@ -4,7 +4,7 @@ public class Student {
 
 	private Long id;
 	private String name;
-	private String address;
+	private String addresss;
 	public Long getId() {
 		return id;
 	}
